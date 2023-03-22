@@ -27,4 +27,5 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=nosql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
+![snake gif](https://github.com/PollyBecker/PollyBecker/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
